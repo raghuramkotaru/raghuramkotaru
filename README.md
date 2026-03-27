@@ -16,7 +16,7 @@ Advanced AWS Bedrock integrations, agentic AI architectures, and distributed sys
 Building AI pipelines end-to-end — from data scraping and preprocessing to LLM integration and deployment. Also: NLP, Python, Node.js, Salesforce dev, and surviving grad school at Stony Brook 😄
 
 ⚡ **Fun fact**
-Started in Salesforce dev, pivoted to AI/ML engineering, and ended up building drug-interaction detection systems at a hospital — the glow-up was unplanned.
+Started in Salesforce dev,, pivoted to AI/ML engineering, and ended up building drug-interaction detection systems at a hospital — the glow-up was unplanned.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Raghuram.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Raghu Ram Kotaru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghuramkotaru.7@gmail.com) 
