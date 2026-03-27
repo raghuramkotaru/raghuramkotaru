@@ -1,6 +1,22 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>MedRec — an AI-powered clinical documentation system using AWS Bedrock for drug-drug interaction detection and automated clinical summary generation. Also building a Social Media AI Agent that automates comment management across YouTube, Instagram & Facebook using Azure Text Analytics and OpenAI.<br><br>👯 I'm looking to collaborate on<br>AI/ML projects involving NLP, LLMs, and agentic AI systems — especially anything touching healthcare AI, RAG pipelines, or intelligent automation. Open to open-source contributions in the MLOps and data engineering space too.<br><br>🤝 I'm looking for help with<br>Scaling LLM-integrated applications on AWS and optimizing scraping pipelines (Selenium + APIs) for real-world clinical data sources.<br><br>🌱 I'm currently learning<br>Advanced AWS Bedrock integrations, agentic AI architectures, and distributed systems concepts from my AMS coursework on HPC (SeaWulf cluster, MPI, ADMM).<br><br>💬 Ask me about<br>Building AI pipelines end-to-end — from data scraping and preprocessing to LLM integration and deployment. Also: NLP, Python, Node.js, Salesforce dev, and surviving grad school at Stony Brook 😄<br>⚡ Fun fact<br>Bridged two worlds — BTech in IT from India to MS in CS + Applied Math at Stony Brook, going from dev intern to building clinical AI systems at a hospital.
 
+🔭 **I'm currently working on**
+MedRec — an AI-powered clinical documentation system using AWS Bedrock for drug-drug interaction detection and automated clinical summary generation. Also building a Social Media AI Agent that automates comment management across YouTube, Instagram & Facebook using Azure Text Analytics and OpenAI.
+
+👯 **I'm looking to collaborate on**
+AI/ML projects involving NLP, LLMs, and agentic AI systems — especially healthcare AI, RAG pipelines, or intelligent automation. Open to open-source contributions in the MLOps and data engineering space too.
+
+🤝 **I'm looking for help with**
+Scaling LLM-integrated applications on AWS and optimizing scraping pipelines (Selenium + APIs) for real-world clinical data sources.
+
+🌱 **I'm currently learning**
+Advanced AWS Bedrock integrations, agentic AI architectures, and distributed systems concepts (SeaWulf HPC cluster, MPI, ADMM).
+
+💬 **Ask me about**
+Building AI pipelines end-to-end — from data scraping and preprocessing to LLM integration and deployment. Also: NLP, Python, Node.js, Salesforce dev, and surviving grad school at Stony Brook 😄
+
+⚡ **Fun fact**
+Started in Salesforce dev, pivoted to AI/ML engineering, and ended up building drug-interaction detection systems at a hospital — the glow-up was unplanned.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Raghuram.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Raghu Ram Kotaru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghuramkotaru.7@gmail.com) 
